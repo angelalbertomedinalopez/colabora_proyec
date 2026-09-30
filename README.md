@@ -15,3 +15,6 @@ Esta aplicación es una estructura base para administrar tareas y notas personal
    ```bash
    git clone <URL_DEL_REPOSITORIO>
    cd organizador_personal
+
+git add README.md
+git commit -m "Agrega seccion Estado en README"
