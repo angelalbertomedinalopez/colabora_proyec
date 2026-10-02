@@ -18,3 +18,7 @@ Esta aplicación es una estructura base para administrar tareas y notas personal
 
 git add README.md
 git commit -m "Agrega seccion Estado en README"
+## Colaboración
+## Colaboración
+
+Aportación realizada por Angel Lopez.
